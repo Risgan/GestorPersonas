@@ -1,0 +1,7 @@
+package com.gpjava.gpjava;
+
+import org.springframework.data.repository.Repository;
+
+public interface PersonaRepo extends Repository<Persona, Integer>{
+
+}

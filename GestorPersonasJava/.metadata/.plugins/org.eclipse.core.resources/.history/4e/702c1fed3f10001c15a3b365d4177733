@@ -1,0 +1,5 @@
+package com.gpjava.gpjava;
+
+public interface PersonaService {
+
+}
